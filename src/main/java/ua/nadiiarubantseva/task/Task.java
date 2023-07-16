@@ -1,4 +1,4 @@
-package src;
+package ua.nadiiarubantseva.task;
 
 import java.util.*;
 

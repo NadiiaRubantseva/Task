@@ -1,6 +1,6 @@
-package src;
+package ua.nadiiarubantseva.task;
 
-import static src.Task.findFirstUniqueCharacter;
+import static ua.nadiiarubantseva.task.Task.findFirstUniqueCharacter;
 
 public class Main {
 
